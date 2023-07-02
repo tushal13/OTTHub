@@ -96,11 +96,16 @@ Please feel free to customize and expand this conclusion as needed for your spec
     <img src="https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314" alt="Image" style="width: 200px;">
     <p style="text-align: center;">Splash Screen</p>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; margin-right: 20px;">
     <img src="https://github.com/tushal13/OTTHub/assets/113960162/935f7036-5d34-4aac-938c-a134888554cf" alt="Image" style="width: 200px;">
     <p style="text-align: center;">Circular Indicator</p>
   </div>
+  <div style="text-align: center;">
+    <img src="[https://example.com/image3.jpg](https://github.com/tushal13/OTTHub/assets/113960162/c067b260-b95a-4486-9448-329981038cc2)" alt="Image" style="width: 200px;">
+    <p style="text-align: center;">Third Image</p>
+  </div>
 </div>
+
 
 
 
