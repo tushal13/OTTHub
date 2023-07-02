@@ -91,33 +91,8 @@ Please feel free to customize and expand this conclusion as needed for your spec
 
 ## Screenshot 
 
-![Screenshot_2023-07-02-19-08-23-72_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/9bee6921-9215-47da-a256-bf6e5ae273b7)
+![Screenshot_2023-07-02-19-08-23-72_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314)
 
-![Screenshot_2023-07-02-19-22-15-02_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/97081bc0-4dd7-4158-a05c-ea2764b5b492)
-
-![Screenshot_2023-07-02-19-22-19-83_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/07c1c78f-a509-4bfe-8a45-9d78172710c1)
-
-![Screenshot_2023-07-02-19-08-56-38_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/95c948f0-3fa9-4bc8-9664-2f7524e42166)
-
-![Screenshot_2023-07-02-19-09-24-11_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/d4e8b010-5c64-4d7c-8427-ce2092e7547b)
-
-![Screenshot_2023-07-02-19-09-43-10_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/246f9d34-6211-4f59-a9bb-f1e5e50aaf38)
-
-![Screenshot_2023-07-02-19-10-28-85_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/c6ce37a1-f83c-4339-87bc-ba4191f5442b)
-
-![Screenshot_2023-07-02-19-10-46-61_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/e6e943c3-a35b-444c-92a4-d74ac149b565)
-
-![Screenshot_2023-07-02-19-11-02-05_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/5b9593af-e52f-4448-842f-c23c1ee70a1a)
-
-![Screenshot_2023-07-02-19-11-30-31_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/62e7cfb6-5cca-45d0-9315-ca169b8e72af)
-
-![Screenshot_2023-07-02-19-11-11-94_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/c43add3e-5b1c-4032-b1eb-e77064160702)
-
-![Screenshot_2023-07-02-19-11-38-97_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/12338646-9a64-4740-a634-35b87ac20861)
-
-![Screenshot_2023-07-02-19-14-13-23_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/9cf6f62b-8de6-4adb-afdc-55f75021a432)
-
-![Screenshot_2023-07-02-19-22-06-92_a70b7e03b05f21a77cabb0a224503010](https://github.com/tushal13/OTTHub/assets/113960162/59f2082f-353e-46ad-a0e7-9d7ca34e0faf)
 
 ## Contact
 
