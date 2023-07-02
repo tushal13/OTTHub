@@ -101,7 +101,7 @@ Please feel free to customize and expand this conclusion as needed for your spec
     <p style="text-align: center;">Circular Indicator</p>
   </div>
   <div style="text-align: center;">
-    <img src="[https://example.com/image3.jpg](https://github.com/tushal13/OTTHub/assets/113960162/c067b260-b95a-4486-9448-329981038cc2)" alt="Image" style="width: 200px;">
+    <img src="https://github.com/tushal13/OTTHub/assets/113960162/c067b260-b95a-4486-9448-329981038cc2" alt="Image" style="width: 200px;">
     <p style="text-align: center;">Third Image</p>
   </div>
 </div>
