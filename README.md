@@ -91,21 +91,32 @@ Please feel free to customize and expand this conclusion as needed for your spec
 
 ## Screenshot 
 
-<div style="display: flex; justify-content: center; align-items: flex-end;">
-  <div style="text-align: center; margin-right: 20px;">
-    <img src="https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314" alt="Image" style="width: 200px;">
-    <p style="text-align: center;">Splash Screen</p>
-  </div>
-  <div style="text-align: center; margin-right: 20px;">
-    <img src="https://github.com/tushal13/OTTHub/assets/113960162/935f7036-5d34-4aac-938c-a134888554cf" alt="Image" style="width: 200px;">
-    <p style="text-align: center;">Circular Indicator</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/tushal13/OTTHub/assets/113960162/c067b260-b95a-4486-9448-329981038cc2" alt="Image" style="width: 200px;">
-    <p style="text-align: center;">Third Image</p>
-  </div>
-</div>
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314" alt="Image" width="200">
 
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/db6526b8-e0da-44bb-8c15-d4d62266a7b6" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/9be0c5fb-903c-4d2c-85cc-ac4b5a720ec8" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/beb97c69-d460-4d8a-ac94-cdd91992bcbd" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/d2442b4d-7eff-437f-adb6-f8438f33c493" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/80357990-94ab-4a8e-8769-80f9e96916e6" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/3502dc63-ffe6-4578-806c-e6313487a9f0" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/5a6f3fd3-566b-4259-a8d1-1c61e77d348c" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/03e6599e-ba17-4b6f-bf50-cfab643182d1" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/9b52baeb-6b98-40d4-af04-3882636b41e3" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/5b96058b-17da-4c54-9d43-9a1ab1ce7988" alt="Image" width="200">
+
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/c0e82aa7-a472-4942-915a-8d3c45cf0b9a" alt="Image" width="200">
+
+<img src="https://github.com/tushal13/OTTHub/assets/113960162/3510b8b6-eb6d-47fa-8ef0-a0ccf98202fa" alt="Image" width="200">
 
 
 
