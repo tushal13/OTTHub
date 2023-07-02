@@ -118,6 +118,12 @@ Please feel free to customize and expand this conclusion as needed for your spec
 
 
 
+## Video
+
+
+
+https://github.com/tushal13/OTTHub/assets/113960162/67c4de46-106e-478b-be6a-8be0d3ad3d6e
+
 
 
 
