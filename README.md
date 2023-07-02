@@ -91,7 +91,7 @@ Please feel free to customize and expand this conclusion as needed for your spec
 
 ## Screenshot 
 
- <img src="https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314" alt="Image" width="120">
+ <img src="https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314" alt="Image" width="180">
 
 
 
