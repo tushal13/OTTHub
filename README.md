@@ -92,15 +92,15 @@ Please feel free to customize and expand this conclusion as needed for your spec
 ## Screenshot 
 
 <div style="text-align: center;">
-  <figure style="display: inline-block; text-align: center;">
-    <img src="https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314" alt="Image" width="200">
-    <figcaption style="text-align: center;">Splash Screen</figcaption>
-  </figure>
-  <figure style="display: inline-block; text-align: center;">
-    <img src="https://github.com/tushal13/OTTHub/assets/113960162/935f7036-5d34-4aac-938c-a134888554cf" alt="Image" width="200">
-    <figcaption style="text-align: center;">Circular Indicator</figcaption>
-  </figure>
+  <img src="https://github.com/tushal13/OTTHub/assets/113960162/d35887cc-7d2c-426d-8b6f-e1f1aa5bf314" alt="Image" style="width: 200px;">
+  <p style="text-align: center;">Splash Screen</p>
 </div>
+
+<div style="text-align: center;">
+  <img src="https://github.com/tushal13/OTTHub/assets/113960162/935f7036-5d34-4aac-938c-a134888554cf" alt="Image" style="width: 200px;">
+  <p style="text-align: center;">Circular Indicator</p>
+</div>
+
 
 
 
