@@ -115,23 +115,9 @@ Please feel free to customize and expand this conclusion as needed for your spec
 
 <img src="https://github.com/tushal13/OTTHub/assets/113960162/3510b8b6-eb6d-47fa-8ef0-a0ccf98202fa" alt="Image" width="200">
 
-
-
-
 ## Video
 
-
-
-https://github.com/tushal13/OTTHub/assets/113960162/67c4de46-106e-478b-be6a-8be0d3ad3d6e
-
-
-
-
-
-
-
-
-
+https://github.com/tushal13/OTTHub/assets/113960162/39dd5dfc-262b-472d-90bc-c702634a2f85
 
 ## Contact
 
